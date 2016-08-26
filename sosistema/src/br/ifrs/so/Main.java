@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sosistema;
+package br.ifrs.so;
 
 /**
  *
  * @author 0300152
  */
-public class Sosistema {
+public class Main {
 
     /**
      * @param args the command line arguments
